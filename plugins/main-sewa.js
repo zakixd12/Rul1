@@ -17,7 +17,7 @@ let handler = async (m, { conn }) => {
 ├ Rp. 10,000 Pulsa Three
 │
 ├ tertarik? hubungi: 
-├ @62895336282144 (The.sad.boy01)
+├ @6289506219231 (Jacky)
 └────
 `.trim(),
         "listType": "PRODUCT_LIST",
